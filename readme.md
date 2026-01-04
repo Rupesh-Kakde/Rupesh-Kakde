@@ -7,11 +7,10 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding boy" width="400"/>
 </p>
 
----
 
 ## 🚀 About Me  
 - 🎓 Pursuing **Master of Computer Science (MCS)**  
-- 🌐 Enjoy building dynamic websites and interactive web experiences  
+- 🌐 Enjoy building dynamic websites and interactive web experiences 
 - ⚡ Fun fact: I love to keep learning and exploring 🤓  
 - 🏆 Goal: To grow as a **Full-Stack Developer**  
 
@@ -26,31 +25,28 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupeshkakde/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rupesh.kakde01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/rupeshkakde/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rupesh.kakde01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🏆 Coding Platforms  
 <p align="center">
+  <a href="https://www.hackerrank.com/profile/rushik7070"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Rupesh-Kakade/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+### 🥇 LeetCode Badge  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rupesh-Kakade?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+### 🥇 HackerRank Badge  
+<p align="center">
   <a href="https://www.hackerrank.com/profile/rushik7070">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Rupesh-Kakade/">
-    <img src="https://img.shields.io/badge/LeetCode-Rupesh_Kakade-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🥇 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rupesh-Kakade?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
@@ -67,7 +63,10 @@
 
 ## ⚙️ Frameworks  
 <p align="center">
+  <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
+</p>
+  
 </p>
 
 ---
@@ -115,6 +114,6 @@
 </p>
 
 ---
-
-## 🤝 Support  
-- 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/rupeshkakde/) → guaranteed reply 🤝  
+ 
+## 🤹 Support  
+ - 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/rupeshkakde/) → guaranteed reply 🤝  
