@@ -37,6 +37,14 @@
   <a href="https://leetcode.com/u/Rupesh-Kakade/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
+## 🧩 LeetCode Achievements  
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="150"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days Badge" width="150"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" alt="LeetCode Monthly Badge" width="150"/>
+</p>
+
+
 ### 🥇 LeetCode Badge  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Rupesh-Kakade?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
@@ -117,3 +125,4 @@
  
 ## 🤹 Support  
  - 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/rupeshkakde/) → guaranteed reply 🤝  
+
