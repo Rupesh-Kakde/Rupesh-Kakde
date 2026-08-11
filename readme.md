@@ -38,11 +38,10 @@
 </p>
 
 ## 🧩 LeetCode Achievements
-
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="150"/>
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days Badge" width="150"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" alt="LeetCode Monthly Badge" width="150"/>
+  <img src="./assets/LeetCode_Achievements_Badges.gif"
+       alt="LeetCode Achievements"
+       width="540"/>
 </p>
 
 ### 🥇 LeetCode Badge  
