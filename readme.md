@@ -123,9 +123,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rupesh-Kakde&theme=tokyonight&hide_border=true" alt="Rupesh's GitHub Streak"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </p>
----
  
 ## 🤹 Support  
  - 💬 Say hi on [LinkedIn](https://www.linkedin.com/in/rupeshkakde/) → guaranteed reply 🤝  
